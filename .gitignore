@@ -1,9 +1,9 @@
 .DS_Store
 .vscode/
+
 .obsidian/
 */.obsidian/
 
 public/
-resources/
 
 templates/
