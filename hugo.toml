@@ -8,6 +8,7 @@ theme = 'PaperMod'
     title = 'Boryan147'
     description = "M.Sc. Student in Autonomous Technology @ FAU Erlangen-Nürnberg"
     author = "Ryan Li"
+    comments = true
     
     # Homepage Configuration 
     [params.homeInfoParams]
