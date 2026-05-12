@@ -16,4 +16,3 @@ $$
 V(s) = \max_a \sum_{s'} P(s'|s,a) [R(s,a,s') + \gamma V(s')]
 $$
 image:
-![sdf](static/images/overview%2017.20.12%201.webp)
