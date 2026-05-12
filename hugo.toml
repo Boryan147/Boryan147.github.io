@@ -3,15 +3,6 @@ languageCode = 'en-us'
 title = "Ryan's Log"
 theme = 'PaperMod'
 
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.extensions]
-      [markup.goldmark.extensions.passthrough]
-        enable = true
-        [markup.goldmark.extensions.passthrough.delimiters]
-          block = [['\[', '\]'], ['$$', '$$']]
-          inline = [['$', '$']]
-
 [params]
     env = 'production'
     title = 'Boryan147'
