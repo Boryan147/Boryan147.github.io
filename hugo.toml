@@ -9,7 +9,6 @@ theme = 'PaperMod'
     description = "M.Sc. Student in Autonomous Technology @ FAU Erlangen-Nürnberg"
     author = "Ryan Li"
     comments = true
-    math = true
     
     # Homepage Configuration 
     [params.homeInfoParams]
