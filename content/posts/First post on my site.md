@@ -1,5 +1,5 @@
 ---
-title: Your Title
+title: First post on Ryan's Log
 date: 2026-05-12
 draft: false
 comments: true
@@ -12,4 +12,6 @@ tags:
 ### RL
 **dsadf** sdfas *sdfsadfs* 
 
-
+$$V(s) = \max_a \sum_{s'} P(s'|s,a) [R(s,a,s') + \gamma V(s')]$$
+image:
+![](overview%2017.20.12.webp)
