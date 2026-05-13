@@ -12,19 +12,19 @@ theme = 'PaperMod'
     
     # Homepage Configuration 
     [params.homeInfoParams]
-        Title = "Hi, I'm Ryan! 👋"
-        Content = """
-        Welcome to my personal site. I am currently a Master's student at **FAU Erlangen-Nürnberg**, Germany, 
-        majoring in **Autonomous Technology**. My research interests lie in **Reinforcement Learning (RL)** and Safe Control. Here, I document my learning progress, project insights, and thoughts.
-        """
+        Title = "Hi, I'm Ryan! 😉"
+        Content = "Welcome to my personal site. I am currently a Master's student at **FAU Erlangen-Nürnberg**, Germany, majoring in **Autonomous Technology**. My research interests lie in **Reinforcement Learning (RL)** and Safe Control. Here, I document my learning progress, project insights, and thoughts."
 
     # Social Media Icons
     [[params.socialIcons]]
         name = "github"
         url = "https://github.com/Boryan147"
     [[params.socialIcons]]
+        name = "X"
+        url = "https://x.com/RyanLi155"
+    [[params.socialIcons]]
         name = "linkedin"
-        url = "https://www.linkedin.com/in/YOUR_ID" # Replace with your real ID
+        url = "https://www.linkedin.com/in/YOUR_ID" 
     [[params.socialIcons]]
         name = "email"
         url = "bo.bo.li@fau.de"
