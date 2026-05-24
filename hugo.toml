@@ -52,3 +52,8 @@ theme = 'PaperMod'
     
     [params.assets]
         disableHLJS = false # Keep syntax highlighting enabled
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

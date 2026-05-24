@@ -1,0 +1,9 @@
+/* Custom styles for academic paper formatting */
+figure figcaption {
+    color: var(--secondary, #7c7c7c);
+    font-size: 0.85em;
+    font-style: italic;
+    text-align: center;
+    margin-top: 0.8rem;
+    margin-bottom: 1rem;
+}
