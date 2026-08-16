@@ -1,4 +1,14 @@
 /* Custom styles for academic paper formatting */
+
+/* Reduce text size for post content */
+.post-content {
+    font-size: 0.95rem;
+}
+
+article {
+    font-size: 0.95rem;
+}
+
 figure figcaption {
     color: var(--secondary, #7c7c7c);
     font-size: 0.85em;
