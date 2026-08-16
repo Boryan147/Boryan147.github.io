@@ -9,6 +9,19 @@ article {
     font-size: 0.95rem;
 }
 
+/* Reduce title/heading sizes */
+h1, h2, h3, h4, h5, h6 {
+    font-size: 0.95em;
+}
+
+article h1 {
+    font-size: 1.8em;
+}
+
+article h2 {
+    font-size: 1.5em;
+}
+
 figure figcaption {
     color: var(--secondary, #7c7c7c);
     font-size: 0.85em;
